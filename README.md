@@ -1,2 +1,0 @@
-# mygarage
-Created with CodeSandbox
